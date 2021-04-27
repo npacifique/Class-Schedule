@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{DA376BB9-350D-433E-8BA4-E308E2707645}|Default">
+  <MonoDevelop.Ide.ItemProperties.ClassScheduleTests FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ClassSchedule PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassScheduleTests/TeacherControllerTests.cs">
+    <Files>
+      <File FileName="ClassSchedule/Startup.cs" Line="28" Column="1" />
+      <File FileName="ClassScheduleTests/HomeControllerTests.cs" Line="17" Column="1" />
+      <File FileName="ClassScheduleTests/TeacherControllerTests.cs" Line="19" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ch14Ex1ClassSchedule" expanded="True">
+            <Node name="ClassSchedule" expanded="True" />
+            <Node name="ClassScheduleTests" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="TeacherControllerTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
